@@ -73,4 +73,5 @@ public:
             return;
         }
 
-        
+        cout << "\nElement in the queue are...\n";
+
